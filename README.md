@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sergey Yatsutko
-- 👀 I’m interested in Java development
-- 🌱 I’m currently learning microservices
 - 📫 How to reach me s3rzh@inbox.ru
 
 <!---
